@@ -14,7 +14,7 @@
     "bullmq": "^1.46.4",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
-    "class-validator-jsonschema": "^3.1.0",
+    "class-validator-jsonschema": "^5.0.0",
     "cors": "^2.8.5",
     "cron-decorators": "^0.1.5",
     "dotenv": "^8.6.0",
