@@ -35,7 +35,7 @@
     "routing-controllers-openapi": "^3.1.0",
     "socket-controllers": "0.0.5",
     "socket.io": "^3.0.0",
-    "swagger-ui-express": "^4.1.6",
+    "swagger-ui-express": "^4.2.0",
     "type-graphql": "^1.1.1",
     "typedi": "^0.10.0",
     "typeorm": "^0.2.37",
