@@ -42,7 +42,7 @@
     "typeorm-seeding": "^1.6.1",
     "typeorm-simple-query-parser": "^1.0.16",
     "typeorm-typedi-extensions": "^0.4.1",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.1",
